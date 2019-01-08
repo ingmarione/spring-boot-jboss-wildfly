@@ -64,7 +64,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-             <finalName>com.personal.book.library</finalName>
+             <finalName>pippo</finalName>
     </build>
 
 </project>
